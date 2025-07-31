@@ -19,3 +19,18 @@ This project explores the use of Mixture of Agents (MoA) for improving large lan
 ├── app/               # (Optional) Streamlit/FastAPI interface
 ├── data/              # Prompts, results
 ├── requirements.txt   # Dependencies
+
+## Setup
+```bash
+pip install -r requirements.txt
+
+#### 2. 🧪 Optional: Expand "Coming Soon"
+Right now, “Coming Soon” is a bullet list — consider breaking it into a full section for visibility:
+
+```markdown
+## 🚧 Coming Soon
+
+- ✅ Baseline agent comparison
+- ✅ Token router implementation
+- ✅ Evaluation results and dashboard
+- ✅ Optional Streamlit or FastAPI UI
