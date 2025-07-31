@@ -11,3 +11,11 @@ This project explores the use of Mixture of Agents (MoA) for improving large lan
 - Evaluate against benchmarks like MMLU and GSM8K
 
 ## Project Structure
+
+📦 moa-llm-project
+├── agents/            # Agents using different LLMs
+├── router/            # Logic for choosing best output
+├── evaluate/          # Scripts and metrics tracking
+├── app/               # (Optional) Streamlit/FastAPI interface
+├── data/              # Prompts, results
+├── requirements.txt   # Dependencies
