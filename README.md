@@ -7,8 +7,6 @@ This project explores the use of Mixture of Agents (MoA) for improving large lan
 - Implement token-level routing to select best outputs
 - Evaluate against benchmarks like MMLU and GSM8K
 
-## Project Structure
-
 ## 📁 Project Structure
 
 ```text
@@ -20,15 +18,12 @@ moa-llm-project/
 ├── data/              # Prompts, results
 ├── requirements.txt   # Dependencies
 └── README.md
-
+```
 ## Setup
 ```bash
 pip install -r requirements.txt
 
-#### 2. 🧪 Optional: Expand "Coming Soon"
-Right now, “Coming Soon” is a bullet list — consider breaking it into a full section for visibility:
-
-```markdown
+```
 ## 🚧 Coming Soon
 
 - ✅ Baseline agent comparison
