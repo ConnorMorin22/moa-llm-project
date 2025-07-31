@@ -9,7 +9,7 @@ This project explores the use of Mixture of Agents (MoA) for improving large lan
 
 ## Project Structure
 
-<pre><code>## 📁 Project Structure
+## 📁 Project Structure
 
 ```text
 moa-llm-project/
@@ -20,9 +20,6 @@ moa-llm-project/
 ├── data/              # Prompts, results
 ├── requirements.txt   # Dependencies
 └── README.md
-```
-</code></pre>
-
 
 ## Setup
 ```bash
