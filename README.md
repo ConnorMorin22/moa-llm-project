@@ -9,13 +9,20 @@ This project explores the use of Mixture of Agents (MoA) for improving large lan
 
 ## Project Structure
 
-📦 moa-llm-project
+<pre><code>## 📁 Project Structure
+
+```text
+moa-llm-project/
 ├── agents/            # Agents using different LLMs
 ├── router/            # Logic for choosing best output
 ├── evaluate/          # Scripts and metrics tracking
 ├── app/               # (Optional) Streamlit/FastAPI interface
 ├── data/              # Prompts, results
 ├── requirements.txt   # Dependencies
+└── README.md
+```
+</code></pre>
+
 
 ## Setup
 ```bash
